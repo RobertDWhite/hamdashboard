@@ -8,7 +8,7 @@ const aURL = [
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
   ["0dd1a7", "Help", "#", "1"],
-  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/VA3HDL", "1.7"],
+  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/W3RDW", "1.7"],
   [
     "2196F3",
     "CONTEST",
@@ -35,14 +35,14 @@ const aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=44.0157&lon=-79.4591&zoom=5",
+    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=39.4912&lon=-84.3057&zoom=5",
     "1",
     "R",
   ],
   [
     "2196F3",
     "WINDS",
-    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-78.79,44.09,3000",
+    "https://earth.nullschool.net/#current/wind/surface/level/orthographic=-84.31,39.49,3000",
     "1",
     "R",
   ],
@@ -58,7 +58,7 @@ const aIMG = [
   ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
   [
     "LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/KNQA_loop.gif",
+    "https://radar.weather.gov/ridge/standard/KILN_loop.gif",
   ],
   [
     "NOAA D-RAP",
@@ -71,7 +71,7 @@ const aIMG = [
   ],
   [
     "SATELLITE CAN",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/20241782311-20241790306-GOES16-GLM-CGL-EXTENT3-600x600.gif",
   ],
   [
     "SATELLITE CGL",
