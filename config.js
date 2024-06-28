@@ -87,8 +87,8 @@ const aIMG = [
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
-    "SW BROADCAST",
-    "http://sohowww.nascom.nasa.gov/data/LATEST/current_eit_304.mpg",
+    "LATEST SOLAR IMAGE",
+    "https://services.swpc.noaa.gov/images/animations/suvi/primary/304/latest.png",
   ],
   ["10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
   ["HF PROPAGATION",
