@@ -62,7 +62,7 @@ const aIMG = [
   ],
   [
     "NOAA D-RAP",
-    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+    "https://services.swpc.noaa.gov/images/animations/d-rap/global/latest.png",
   ],
   [
     "ISS & RS-44 POSITION",
@@ -70,20 +70,20 @@ const aIMG = [
     "https://www.heavens-above.com/orbitdisplay.aspx?icon=default&width=600&height=300&mode=M&satid=44909",
   ],
   [
-    "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cgl/GEOCOLOR/GOES16-cgl-GEOCOLOR-600x600.gif",
+    "SATELLITE GEOCOLOR",
+    "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/GEOCOLOR/GOES19-CONUS-GEOCOLOR-625x375.gif",
   ],
   [
     "SANDWICH RGB",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cgl/Sandwich/GOES16-cgl-Sandwich-600x600.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/CONUS/Sandwich/GOES19-CONUS-Sandwich-625x375.gif",
   ],
   [
-    "LIGHTNING",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/CONUS/EXTENT3/GOES16-CONUS-EXTENT3-1250x750.gif",
+    "LIGHTNING GLM",
+    "https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/GOES19-CONUS-EXTENT3-625x375.gif",
   ],
   [
-    "LIGHTNING LOCAL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-cgl-EXTENT3-600x600.gif",
+    "AURORA FORECAST",
+    "https://services.swpc.noaa.gov/images/aurora-forecast-northern-hemisphere.jpg",
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
