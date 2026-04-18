@@ -71,7 +71,7 @@ const aIMG = [
   ],
   [
     "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-cgl-EXTENT3-600x600.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/cgl/GEOCOLOR/GOES16-cgl-GEOCOLOR-600x600.gif",
   ],
   [
     "SANDWICH RGB",
@@ -79,11 +79,11 @@ const aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://www.blitzortung.org/en/Images/image_b_usa.png",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/CONUS/EXTENT3/GOES16-CONUS-EXTENT3-1250x750.gif",
   ],
   [
     "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-cgl-EXTENT3-600x600.gif",
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
